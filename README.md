@@ -1,0 +1,1 @@
+# India-Wholesale-Price-Index-WPI-Analysis-2012-to-2023
