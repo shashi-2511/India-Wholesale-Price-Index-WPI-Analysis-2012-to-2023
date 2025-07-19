@@ -47,6 +47,12 @@ Analyzed average WPI for each month across years.
 
 Created visuals to showcase how certain commodities (e.g., Onion, Tomato) behave throughout the year.
 
+<img width="1328" height="738" alt="Screenshot 2025-07-19 103741" src="https://github.com/user-attachments/assets/28baa29f-ae34-4c8c-aaef-80d42e51947f" />
+<img width="1323" height="735" alt="Screenshot 2025-07-19 103715" src="https://github.com/user-attachments/assets/97250c7f-1f4a-4f96-9dba-154fee10e3b2" />
+<img width="1321" height="746" alt="Screenshot 2025-07-19 103658" src="https://github.com/user-attachments/assets/4ac11ab3-f4ed-4225-b806-368c47ea92fa" />
+<img width="1328" height="744" alt="Screenshot 2025-07-19 103640" src="https://github.com/user-attachments/assets/27e9f4ca-403b-4c20-b76a-3e9f6b83447d" />
+<img width="1327" height="734" alt="Screenshot 2025-07-19 103548" src="https://github.com/user-attachments/assets/ffeb5564-71b8-44c6-99fd-93d050affdcb" />
+<img width="1165" height="664" alt="Screenshot 2025-07-17 231409" src="https://github.com/user-attachments/assets/847e6ee0-339f-4b3b-a6b8-245c88563a1d" />
 
 
 
